@@ -1,4 +1,5 @@
-![Profile Views](https://komarev.com/ghpvc/?username=ngochuyenn527&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=dbtanh2905&label=Profile%20Views&color=blue)
+
 # 👋 Xin chào, mình là Tuấn Anh!
 
 🎓 Sinh viên ngành **Hệ thống Thông tin**  
